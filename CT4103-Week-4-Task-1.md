@@ -36,6 +36,11 @@ Git Bash is an optional install that you can choose to install when you install 
 
 ![3 Gitbash](IMG-All/IMG-GitHub-UsingCMD/3-gitbash.PNG)
 
+#### AWS Server
+Or you can do this from the AWS Server that we made last week!
+
+
+
 ## Getting to the right place
 Once opened, we need to move to our tutorial repository. You can do this by using the `cd` command, which stands for *Change Directory*. Try and navigate using the `cd` command and get to the tutorial repository.
 <details>
