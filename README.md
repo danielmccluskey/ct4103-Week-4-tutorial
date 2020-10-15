@@ -11,7 +11,6 @@ This weeks tutorials will show you how to run Python code outside of Jupyter Not
 ## Tutorials
 List of tutorials for this session:
 
-1. [XXXXX](README.md)
-2. [XXXXX](README.md)
-3. [XXXXX](README.md)
+1. [Command Line Tasks](CT4103-Week-4-Task-1.md)
+2. Look through and read the Jupyter Notebook Cheat Sheet
 
