@@ -42,11 +42,11 @@ Once opened, we need to move to our tutorial repository. You can do this by usin
     <summary>Solution</summary>
 
 The following command can be used to go directly to a specific folder.
-```
+```bash
 cd "C:/Users/UserName/Documents/GitHub/"
 ```
 Or you can use a series of commands to get to where you want. 
-```
+```bash
 cd Users
 cd UserName
 cd Documents/GitHub
@@ -62,7 +62,7 @@ Make a new folder within the tutorial repository, call it whatever you want!
     <summary>Solution</summary>
 
 The following command can be used to create a folder.
-```
+```bash
 mkdir FolderName
 ```
 </details>
@@ -74,7 +74,7 @@ Create a new file, make it any extention that you want
     <summary>Solution</summary>
 
 The following command can be used to create a file of any filetype.
-```
+```bash
 touch Hello.txt
 ```
 </details>
@@ -86,10 +86,31 @@ Move the file that you just created, into the folder that you just created.
     <summary>Solution</summary>
 
 The following command can be used to move a file or folder.
-```
+```bash
 mv filename.txt MyFolderName
+```
+</details>
+
+# Make a copy of the folder
+Make a copy of the folder so we don't lose it in the next step!
+
+<details>
+    <summary>Solution</summary>
+
+The following command can be used to copy a file or folder.
+```bash
+cp FileOrFolderToCopy WhereToCopyTo
 ```
 </details>
 
 ## Deleting the Folder
 Delete the folder and the file!
+
+<details>
+    <summary>Solution</summary>
+
+The following command can be used to delete a file or folder.
+```bash
+rm FileOrFolderName
+```
+</details>
